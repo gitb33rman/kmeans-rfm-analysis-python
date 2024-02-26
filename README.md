@@ -15,7 +15,7 @@ Welcome to my repository for doing kmeans clustering analysis with rfm variables
 - OrdNum
 - rev
 
-Every row of the dataset should be 1 order. Your dataset should be between 0.5 to 2 years of data. You can add other user-, order-, and or product-related data if you want to do explorative analysis after based on your kmeans segments.
+  Every row of the dataset should be 1 order. Your dataset should be between 0.5 to 2 years of data. You can add other user-, order-, and or product-related data if you want to do explorative analysis after based on your kmeans segments.
 
 3. Edit in your Location and file name in CSV file in the 1. ### Import, Filter, Format Dataset ### section of the kmeans_clustering_script.ipynb.
 
