@@ -29,7 +29,7 @@ Before using this template, ensure you have Python installed (Python 3.7 or high
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/yourusername/kmeans-rfm-analysis-python.git
+git clone https://github.com/YOUR_USERNAME/kmeans-rfm-analysis-python.git
 cd kmeans-rfm-analysis-python
 ```
 
